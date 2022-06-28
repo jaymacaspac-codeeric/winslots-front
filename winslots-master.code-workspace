@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\..\\..\\xampp\\htdocs\\winslots-master"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501
+  }
+}
